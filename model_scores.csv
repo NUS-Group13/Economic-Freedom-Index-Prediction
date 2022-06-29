@@ -1,9 +1,9 @@
-model,Accuracy,precision,Recall,F-score
+Model,Accuracy,Precision,Recall,F-score
 Logistic Regression,81,82,83,82
 Decision Tree Classifier,84,86,86,86
 Random Forest Classifier,91,82,83,82
 Support Vector Machine,85,83,83,83
 Naive Bayes,59,58,59,57
 Gradient Boosting,86,88,87,88
-Xgboost,92,93,94,94
+XGBoost,92,93,94,94
 ANN,64,63,65,65
